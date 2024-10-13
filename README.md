@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Capture.PNG)
+![](./assets/images/v1.PNG)
 
 ### Links
 

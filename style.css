@@ -49,7 +49,7 @@ p {
 }
 
 section {
-  width: 385px;
+  width: 320px;
   background-color: var(--grey800);
   display: flex;
   flex-direction: column;
